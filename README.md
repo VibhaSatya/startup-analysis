@@ -1,5 +1,10 @@
 # startup_analysis
-A data analytics project on startup funding.
+A data analytics project on Indian Startup funding (2015 - 2017).
+Language used: R
+Team Name: Dedomena
+Members: 
+Vibha Satyanarayana
+Sruthi V
 
 # CLEANING 
 1) clean.R (run on startup_funding.csv)
