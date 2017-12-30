@@ -36,7 +36,7 @@ Sruthi V
 5)Investorwordcloud :word cloud of investor names						
 6)SkillsWordCloud :word cloud of founder skills and market specialization
 
-#PREDICTIVE MODELS
+# PREDICTIVE MODELS
 1) clusterFunding.R : has all predictive models and their graphs
                         
                         
